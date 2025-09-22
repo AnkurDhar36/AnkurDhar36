@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Webstorm, PyCharm,**
 
-- 👨‍💻 All of my projects are available at [ankurdhar.me](ankurdhar.me)
+- 👨‍💻 All of my projects will available soon at [ankurdhar.me](ankurdhar.me)
 
 - 📫 How to reach me **dharankur36@gmail.com**
 
