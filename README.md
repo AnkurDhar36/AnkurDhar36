@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dharankur36@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sHzuIW9a2Y9RBqYKQsv1QZaRD6QtLOZS/view?usp=drive_link](https://drive.google.com/file/d/1sHzuIW9a2Y9RBqYKQsv1QZaRD6QtLOZS/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AUsSV6fDoIObd5opJ_ckx_DLwptqoReP/view?usp=drive_link](https://drive.google.com/file/d/1AUsSV6fDoIObd5opJ_ckx_DLwptqoReP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
