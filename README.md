@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Dhar</h1>
-<h3 align="center">A passionate Machine Learning from India</h3>
+<h3 align="center">A passionate Computational Biology student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurdhar36&label=Profile%20views&color=0e75b6&style=flat" alt="ankurdhar36" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio website**
 
-- 🌱 I’m currently learning **Webstorm, PyCharm,**
+- 🌱 I’m currently learning **PyCharm, VS Code & GitHub**
 
 - 👨‍💻 All of my projects will available soon at [ankurdhar.me](ankurdhar.me)
 
